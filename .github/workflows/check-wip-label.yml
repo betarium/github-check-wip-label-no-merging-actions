@@ -1,4 +1,4 @@
-name: wip-label no merging
+name: check-wip-label
 on:
   pull_request:
     types:
